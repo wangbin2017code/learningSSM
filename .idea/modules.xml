@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/learningSSM.iml" filepath="$PROJECT_DIR$/learningSSM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weblearning/weblearning.iml" filepath="$PROJECT_DIR$/weblearning/weblearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webmobile/webmobile.iml" filepath="$PROJECT_DIR$/webmobile/webmobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webpc/webpc.iml" filepath="$PROJECT_DIR$/webpc/webpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webservice/webservice.iml" filepath="$PROJECT_DIR$/webservice/webservice.iml" />
+    </modules>
+  </component>
+</project>

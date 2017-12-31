@@ -1,0 +1,6 @@
+ssm框架整合笔记:
+
+   配置文件：
+       --- spring-mybatis.xml，包含spring和mybatis的配置文件，
+       --- spring-mvc.xml，
+       --- 资源文件：jdbc.propertis和log4j.properties......
